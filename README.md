@@ -1,0 +1,1 @@
+# maleria_detection_app
